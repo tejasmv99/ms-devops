@@ -1,2 +1,2 @@
 # ms-devops
-Microsoft DevOps Certification 
+Microsoft DevOps Certification Repository
